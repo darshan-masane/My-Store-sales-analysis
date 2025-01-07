@@ -22,6 +22,15 @@ The Dashboard provides a high-level summary of essential sales metrics and visua
   - **Daily Sales Trends:** Breakdown of sales by days of the week.
 
 ---
+## Dataset:-
+## - <a href="https://github.com/darshan-masane/My-Store-sales-analysis/blob/main/Mobile%20Sales%20Data.xlsx">Dataset</a>
+## Dashboard:-
+## - <a href="https://github.com/darshan-masane/My-Store-sales-analysis/blob/main/MyStore.pbix">Dashboard</a>
+## Dashboard Overview :-
+![Screenshot%202025-01-07%20201758.png](https://github.com/darshan-masane/My-Store-sales-analysis/blob/main/Screenshot%202025-01-07%20201758.png)
+![Screenshot%202025-01-07%20201814.png](https://github.com/darshan-masane/My-Store-sales-analysis/blob/main/Screenshot%202025-01-07%20201814.png)
+![Screenshot%202025-01-07%20201824.png](https://github.com/darshan-masane/My-Store-sales-analysis/blob/main/Screenshot%202025-01-07%20201824.png)
+---
 
 ### **2. Month-to-Date (MTD) Report**
 The Month-to-Date Report highlights sales trends by year, quarter, month, and day:
