@@ -4,7 +4,7 @@ This **Power BI Sales Report** offers an interactive and comprehensive analysis 
 
 ---
 
-## Overview of the Report:-
+## Overview of the Report 
 
 ### **1. Dashboard Overview**
 The Dashboard provides a high-level summary of essential sales metrics and visualizations:
