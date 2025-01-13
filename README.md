@@ -1,6 +1,7 @@
 # My-Store-sales-analysis
 This interactive sales dashboard, built using Microsoft Power BI, provides a comprehensive analysis of sales performance for a mobile store. It is designed to help stakeholders gain insights into key metrics, trends, and comparisons over time.
-This **Power BI Sales Report** offers an interactive and comprehensive analysis of a mobile store's sales performance. The report is segmented into three key sections: Dashboard, Month-to-Date (MTD) Report, and Same Period Last Year analysis. It provides stakeholders with actionable insights to identify trends, compare performance, and make data-driven decisions.
+This **Power BI Sales Report** offers an interactive and comprehensive analysis of a mobile store's sales performance. 
+The report is segmented into three key sections: Dashboard, Month-to-Date (MTD) Report, and Same Period Last Year analysis. It provides stakeholders with actionable insights to identify trends, compare performance, and make data-driven decisions.
 
 ---
 
