@@ -5,7 +5,7 @@ The report is segmented into three key sections: Dashboard, Month-to-Date (MTD) 
 
 ---
 
-## Overview of the Report 
+# Overview of the Report 
 
 ### **1. Dashboard Overview**
 The Dashboard provides a high-level summary of essential sales metrics and visualizations:
